@@ -23,13 +23,13 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 - **Tech Stack:** Shell/Bash, Bioinformatics Tools
 
 #### 🔹 [Mito MissMatch](https://github.com/lukasble/Mito_Miss_Match)
-- Computational pipeline designed for analyzing mitochondrial sequence alignment and mismatch patterns.
+- Bioinformatics computational pipeline designed for analyzing mitochondrial sequence alignment and mismatch patterns.
 - **Tech Stack:** Shell/Bash, Bioinformatics Workflows, Python
 
 ### Organization & Group Contributions
 
 #### 🔹 [Swedish Learning App 2025](https://github.com/uu-semp/swedish-learning-app-2025)
-- Full-stack application developed within the `uu-semp` organization.
+- Full-stack Swedish game application developed within the `uu-semp` organization.
 - **Tech Stack:** JavaScript, HTML/CSS, Web Architecture
 
 ---
