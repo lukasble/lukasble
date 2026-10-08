@@ -8,7 +8,7 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 
 #### 🔹 [Swedish Bird Classifier](https://github.com/lukasble/Swedish-Bird-Classifier)
 - Machine learning pipeline that transforms raw audio recordings into spectrograms to classify bird species using deep learning.
-- **Tech Stack:** Python, html, Deep Learning / AI, Audio Processing, [Kaggle Notebook](https://www.kaggle.com/code/henriklukas/swedish-bird-classifier)
+- **Tech Stack:** Python, html, Deep Learning / AI, Audio Processing, Kaggle Notebook.
   
 #### 🔹 [Project FoodMood](https://github.com/lukasble/project-foodmood)
 - Web-based application analyzing sentiment, preferences, or nutritional data trends.
