@@ -8,7 +8,7 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 
 #### 🔹 [Swedish Bird Classifier](https://github.com/lukasble/Swedish-Bird-Classifier)
 - Machine learning pipeline that transforms raw audio recordings into spectrograms to classify bird species using deep learning.
-- **Tech Stack:** `Python`, `Deep Learning / AI`, `Audio Processing`, [Kaggle Notebook](https://www.kaggle.com/code/henriklukas/swedish-bird-classifier)
+- **Tech Stack:** Python, html, Deep Learning / AI, Audio Processing, [Kaggle Notebook](https://www.kaggle.com/code/henriklukas/swedish-bird-classifier)
   
 #### 🔹 [Project FoodMood](https://github.com/lukasble/project-foodmood)
 - Web-based application analyzing sentiment, preferences, or nutritional data trends.
@@ -16,7 +16,7 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 
 #### 🔹 [Containerized Explainable AI Pipeline](https://github.com/lukasble/containerized-explainable-AI-pipeline) *(Coming Soon)*
 - Multi-service Docker Compose architecture evaluating neural-network classifier interpretability (MLP & sequence U-Net) using DeepSHAP, KernelSHAP and LIME across biomedical and sequence tasks. Once the work is published in a scientific journal, the code can be published.
-- **Tech Stack:** Python, PyTorch, Docker / Docker Compose, SHAP, LIME, Explainable AI (XAI)
+- **Tech Stack:** Python, R, PyTorch, Docker / Docker Compose, SHAP, LIME, Explainable AI (XAI)
 
 #### 🔹 [Mito MissMatch](https://github.com/lukasble/Mito_Miss_Match)
 - Bioinformatics exploratory bioinformatics pipeline evaluating aging across Dog10K whole-genome sequencing datasets in relation to body weight.
