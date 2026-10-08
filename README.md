@@ -1,6 +1,6 @@
 # Hi, I'm Lukas 
 
-M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala University, passionate about Data Engineering, Machine Learning Pipelines, and Software Development.
+M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala University, passionate about Data Engineering, Machine Learning, and Software Development.
 
 ---
 
@@ -8,9 +8,9 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 
 #### 🔹 [Swedish Bird Classifier](https://github.com/lukasble/Swedish-Bird-Classifier)
 * Machine learning pipeline that transforms raw audio recordings into spectrograms to classify bird species using deep learning.
-* **Tech Stack:** Python, Deep Learning, Audio Processing
+* **Tech Stack:** Python, Deep Learning / AI, Audio Processing
 
-#### 🔹 [Genome Analysis Pipeline](https://github.com/lukasble/Genome-Analysis)
+#### 🔹 [Genome Analysis Pipeline](https://github.com/lukasble/Genome_Analysis)
 * Bioinformatics and comparative genomics analysis workflows and pipelines.
 * **Tech Stack:** Shell/Bash, Bioinformatics Tools
 
@@ -30,7 +30,6 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/lukasbleichner](https://linkedin.com)
-* **Email:** [Din E-postadress]
