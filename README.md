@@ -1,6 +1,6 @@
 # Hi, I'm Lukas!
 
-M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala University, passionate about Data Engineering, Machine Learning, and Software Development.
+M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala University, passionate about Data Engineering, Machine Learning, and Software Development. You can find some of my projects below.
 
 ---
 
