@@ -14,7 +14,7 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 - Web-based application analyzing sentiment, preferences, or nutritional data trends.
 - **Tech Stack:** PHP, SQL, Web Architecture
 
-#### 🔹 [Containerized Explainable AI Pipeline](https://github.com/lukasble/containerized-explainable-AI-pipeline) **Coming Soon**
+#### 🔹 [Containerized Explainable AI Pipeline](https://github.com/lukasble/containerized-explainable-AI-pipeline) *(Coming Soon)*
 - Multi-service Docker Compose architecture evaluating neural-network classifier interpretability (MLP & sequence U-Net) using SHAP, LIME, and surrogate models across biomedical and sequence tasks. Once the work is published in a scientific journal, the code can be published.
 - **Tech Stack:** Python, PyTorch, Docker / Docker Compose, SHAP, LIME, Explainable AI (XAI)
   
