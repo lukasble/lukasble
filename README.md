@@ -10,10 +10,6 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 - Machine learning pipeline that transforms raw audio recordings into spectrograms to classify bird species using deep learning.
 - **Tech Stack:** Python, Deep Learning / AI, Audio Processing
 
-#### 🔹 [Mito MissMatch](https://github.com/lukasble/Mito_Miss_Match)
-- Computational pipeline designed for analyzing mitochondrial sequence alignment and mismatch patterns.
-- **Tech Stack:** Shell/Bash, Bioinformatics Workflows, Python
-
 #### 🔹 [Project FoodMood](https://github.com/lukasble/project-foodmood)
 - Web-based application analyzing sentiment, preferences, or nutritional data trends.
 - **Tech Stack:** PHP, SQL, Web Architecture
@@ -29,8 +25,6 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 #### 🔹 [Mito MissMatch](https://github.com/lukasble/Mito_Miss_Match)
 - Computational pipeline designed for analyzing mitochondrial sequence alignment and mismatch patterns.
 - **Tech Stack:** Shell/Bash, Bioinformatics Workflows, Python
-
----
 
 ### Organization & Group Contributions
 
