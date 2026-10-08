@@ -17,14 +17,15 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 #### 🔹 [Containerized Explainable AI Pipeline](https://github.com/lukasble/containerized-explainable-AI-pipeline) *(Coming Soon)*
 - Multi-service Docker Compose architecture evaluating neural-network classifier interpretability (MLP & sequence U-Net) using DeepSHAP, KernelSHAP and LIME across biomedical and sequence tasks. Once the work is published in a scientific journal, the code can be published.
 - **Tech Stack:** Python, PyTorch, Docker / Docker Compose, SHAP, LIME, Explainable AI (XAI)
+
+#### 🔹 [Mito MissMatch](https://github.com/lukasble/Mito_Miss_Match)
+- Exploratory HPC bioinformatics pipeline evaluating mito-nuclear genetic load, heteroplasmy thresholds, and SnpEff variant impacts across Dog10K whole-genome sequencing datasets in relation to body weight and aging.
+- **Tech Stack:** Python, R, Shell/Bash (SLURM/UPPMAX), BCFtools, SnpEff, Bioinformatics Pipelines
   
 #### 🔹 [Genome Analysis Pipeline](https://github.com/lukasble/Genome_Analysis)
 - Bioinformatics and comparative genomics analysis workflows and pipelines.
 - **Tech Stack:** Shell/Bash, Bioinformatics Tools
 
-#### 🔹 [Mito MissMatch](https://github.com/lukasble/Mito_Miss_Match)
-- Bioinformatics computational pipeline designed for analyzing mitochondrial sequence alignment and mismatch patterns.
-- **Tech Stack:** Shell/Bash, Bioinformatics Workflows, Python
 
 ### Organization & Group Contributions
 
