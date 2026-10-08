@@ -14,9 +14,9 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 - Web-based application analyzing sentiment, preferences, or nutritional data trends.
 - **Tech Stack:** PHP, SQL, Web Architecture
 
-#### 🔹 [Containerized ML Pipeline](https://github.com/lukasble) *(Coming Soon)*
-- End-to-end reproducible machine learning analysis pipeline packaged using Docker containerization.
-- **Tech Stack:** Python, Docker, Scikit-Learn / PyTorch
+#### 🔹 [Containerized Explainable AI Pipeline](https://github.com/lukasble/containerized-explainable-AI-pipeline)
+- Multi-service Docker Compose architecture evaluating neural-network classifier interpretability (MLP & sequence U-Net) using SHAP, LIME, and surrogate models across biomedical and sequence tasks.
+- **Tech Stack:** Python, PyTorch, Docker / Docker Compose, SHAP, LIME, Explainable AI (XAI)
   
 #### 🔹 [Genome Analysis Pipeline](https://github.com/lukasble/Genome_Analysis)
 - Bioinformatics and comparative genomics analysis workflows and pipelines.
