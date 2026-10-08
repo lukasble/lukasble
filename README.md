@@ -19,12 +19,12 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 - **Tech Stack:** Python, PyTorch, Docker / Docker Compose, SHAP, LIME, Explainable AI (XAI)
 
 #### 🔹 [Mito MissMatch](https://github.com/lukasble/Mito_Miss_Match)
-- Bioinformatics exploratory HPC bioinformatics pipeline evaluating mito-nuclear genetic load, heteroplasmy thresholds, and SnpEff variant impacts across Dog10K whole-genome sequencing datasets in relation to body weight and aging.
-- **Tech Stack:** Python, R, Shell/Bash (SLURM/UPPMAX), BCFtools, SnpEff, Bioinformatics Pipelines
+- Bioinformatics exploratory bioinformatics pipeline evaluating aging across Dog10K whole-genome sequencing datasets in relation to body weight.
+- **Tech Stack:** Python, R, Shell/Bash (SLURM/UPPMAX), BCFtools, SnpEff, Bioinformatics Pipelines, HPC
   
 #### 🔹 [Genome Analysis Pipeline](https://github.com/lukasble/Genome_Analysis)
 - Bioinformatics and comparative genomics analysis workflows and pipelines.
-- **Tech Stack:** Shell/Bash, Bioinformatics Tools
+- **Tech Stack:** Shell/Bash, Bioinformatics Tools, HPC
 
 
 ### Organization & Group Contributions
