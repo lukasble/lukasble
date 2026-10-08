@@ -1,4 +1,4 @@
-# Hi, I'm Lukas 👋
+# Hi, I'm Lukas!
 
 M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala University, passionate about Data Engineering, Machine Learning, and Software Development.
 
@@ -38,7 +38,7 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 
 * **Languages:** Python, JavaScript, Shell, R, SQL
 * **Data & ML:** Machine Learning Pipelines, Scikit-Learn, PyTorch, Docker, Explainable AI (SHAP, LIME)
-* **Tools & Platforms:** Git, Linux, Bash, DaVinci Resolve
+* **Tools & Platforms:** Git, Linux, Bash
 
 ---
 
