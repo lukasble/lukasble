@@ -1,24 +1,42 @@
-# Hi, I'm Lukas 
+# Hi, I'm Lukas 👋
 
 M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala University, passionate about Data Engineering, Machine Learning, and Software Development.
 
 ---
 
-### My own Projects
+### My Own Projects
 
 #### 🔹 [Swedish Bird Classifier](https://github.com/lukasble/Swedish-Bird-Classifier)
-* Machine learning pipeline that transforms raw audio recordings into spectrograms to classify bird species using deep learning.
-* **Tech Stack:** Python, Deep Learning / AI, Audio Processing
+- Machine learning pipeline that transforms raw audio recordings into spectrograms to classify bird species using deep learning.
+- **Tech Stack:** Python, Deep Learning / AI, Audio Processing
 
+#### 🔹 [Mito MissMatch](https://github.com/lukasble/Mito_Miss_Match)
+- Computational pipeline designed for analyzing mitochondrial sequence alignment and mismatch patterns.
+- **Tech Stack:** Shell/Bash, Bioinformatics Workflows, Python
+
+#### 🔹 [Project FoodMood](https://github.com/lukasble/project-foodmood)
+- Web-based application analyzing sentiment, preferences, or nutritional data trends.
+- **Tech Stack:** PHP, SQL, Web Architecture
+
+#### 🔹 [Containerized ML Pipeline](https://github.com/lukasble) *(Coming Soon)*
+- End-to-end reproducible machine learning analysis pipeline packaged using Docker containerization.
+- **Tech Stack:** Python, Docker, Scikit-Learn / PyTorch
+  
 #### 🔹 [Genome Analysis Pipeline](https://github.com/lukasble/Genome_Analysis)
-* Bioinformatics and comparative genomics analysis workflows and pipelines.
-* **Tech Stack:** Shell/Bash, Bioinformatics Tools
+- Bioinformatics and comparative genomics analysis workflows and pipelines.
+- **Tech Stack:** Shell/Bash, Bioinformatics Tools
 
-### Featured Projects & Contributions
+#### 🔹 [Mito MissMatch](https://github.com/lukasble/Mito_Miss_Match)
+- Computational pipeline designed for analyzing mitochondrial sequence alignment and mismatch patterns.
+- **Tech Stack:** Shell/Bash, Bioinformatics Workflows, Python
+
+---
+
+### Organization & Group Contributions
 
 #### 🔹 [Swedish Learning App 2025](https://github.com/uu-semp/swedish-learning-app-2025)
-* Full-stack application developed within the `uu-semp` organization.
-* **Tech Stack:** JavaScript, HTML/CSS, Web Architecture
+- Full-stack application developed within the `uu-semp` organization.
+- **Tech Stack:** JavaScript, HTML/CSS, Web Architecture
 
 ---
 
