@@ -15,7 +15,7 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 - **Tech Stack:** PHP, SQL, Web Architecture
 
 #### 🔹 [Containerized Explainable AI Pipeline](https://github.com/lukasble/containerized-explainable-AI-pipeline) *(Coming Soon)*
-- Multi-service Docker architecture evaluating neural-network classifier interpretability (MLP & sequence U-Net) using XAI such as DeepSHAP, KernelSHAP and LIME across biomedical and sequence tasks. Once the work is published in a scientific journal, the code can be published.
+- Multi-service Docker architecture evaluating neural-network classifier interpretability (MLP & sequence U-Net) using XAI such as DeepSHAP, KernelSHAP and LIME across clinical data. Once the work is published in a scientific journal, the code can be published.
 - **Tech Stack:** Python, R, PyTorch, Docker / Docker Compose, SHAP, LIME, Explainable AI (XAI)
 
 #### 🔹 [Mitochondrial DNA Miss Match](https://github.com/lukasble/Mito_Miss_Match)
