@@ -31,9 +31,14 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 
 #### 🔹 [Swedish Learning App 2025](https://github.com/uu-semp/swedish-learning-app-2025)
 - Full-stack Swedish game application developed within the `uu-semp` organization.
-- **Tech Stack:** JavaScript, HTML/CSS, Web Architecture
-
+- **Tech Stack:** Python, PyTorch, XGBoost, scikit-learn, pandas, NumPy, Seaborn / Matplotlib, Kaggle
 ---
+
+### Planned Projects
+
+#### 🔹 MultiOmics-XGBoost exploration with PCA
+- Multi-block PCA and XGBoost pipeline for high-dimensional TCGA multi-omics data (CNV, RNA-Seq, mutations, and proteomics) to classify PAM50 breast cancer subtypes
+- **Tech Stack:** Shell/Bash, Bioinformatics Tools, HPC
 
 ### Tech Stack & Tools
 
