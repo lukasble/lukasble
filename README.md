@@ -14,6 +14,10 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 - Web-based application analyzing sentiment, preferences, or nutritional data trends.
 - **Tech Stack:** PHP, SQL, Web Architecture
 
+#### 🔹 [Git Leak Detector](https://github.com/lukasble/git-leak-detector)
+- Lightweight DevSecOps CLI tool combining regex signature matching and Shannon Entropy analysis to detect, mask, and prevent secret leaks before they reach version control.
+- **Tech Stack:** Python (`argparse`, `re`, `math`), DevSecOps, Git Hooks, `pytest`, JSON Reporting
+
 #### 🔹 [Containerized Explainable AI Pipeline](https://github.com/lukasble/containerized-explainable-AI-pipeline) *(Coming Soon)*
 - Multi-service Docker architecture evaluating neural-network classifier interpretability (MLP & sequence U-Net) using XAI such as DeepSHAP, KernelSHAP and LIME across clinical data. Once the work is published in a scientific journal, the code can be published.
 - **Tech Stack:** Python, R, PyTorch, Docker / Docker Compose, SHAP, LIME, Explainable AI (XAI)
