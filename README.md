@@ -22,6 +22,10 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 - Multi-service Docker architecture evaluating neural-network classifier interpretability (MLP & sequence U-Net) using XAI such as DeepSHAP, KernelSHAP and LIME across clinical data. Once the work is published in a scientific journal, the code can be published.
 - **Tech Stack:** Python, R, PyTorch, Docker / Docker Compose, SHAP, LIME, Explainable AI (XAI)
 
+#### 🔹 [Omics Explainability: XGBoost vs. Rules](https://github.com/lukasble)
+- End-to-end bioinformatics pipeline integrating multi-block TCGA-BRCA multi-omics data (copy number variations, somatic mutations, RNA-Seq, and proteomics) with quantile discretization and R.ROSETTA rough set rule extraction to uncover predictive molecular associations for breast cancer classification.
+- **Tech Stack:** R (`R.ROSETTA`, `VisuNet`), Python, Pandas, Multi-Omics, Bioinformatics, Kaggle
+
 #### 🔹 [Mitochondrial DNA Miss Match](https://github.com/lukasble/Mito_Miss_Match)
 - Bioinformatics exploratory bioinformatics pipeline evaluating aging across Dog10K whole-genome sequencing datasets in relation to body weight.
 - **Tech Stack:** Python, R, Shell/Bash (SLURM/UPPMAX), BCFtools, SnpEff, Bioinformatics Pipelines, HPC
@@ -36,13 +40,6 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 #### 🔹 [Swedish Learning App 2025](https://github.com/uu-semp/swedish-learning-app-2025)
 - Full-stack Swedish game application developed within the `uu-semp` organization.
 - **Tech Stack:** Python, R, PyTorch, Docker / Docker Compose, SHAP, LIME, Explainable AI (XAI)
-
-
-### Planned Projects
-
-#### 🔹 MultiOmics-XGBoost exploration with PCA
-- Multi-block PCA and XGBoost pipeline for high-dimensional TCGA multi-omics data (CNV, RNA-Seq, mutations, and proteomics) to classify PAM50 breast cancer subtypes
-- **Tech Stack:** Python, PyTorch, XGBoost, scikit-learn, pandas, NumPy, Seaborn / Matplotlib, Kaggle
 
 ---
 
