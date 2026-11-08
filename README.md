@@ -10,7 +10,7 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 - Multi-service Docker architecture evaluating neural-network classifier interpretability (MLP & sequence U-Net) using XAI such as DeepSHAP, KernelSHAP and LIME across clinical data. Once the work is published in a scientific journal, the code can be published.
 - **Tech Stack:** Python, R, PyTorch, Docker / Docker Compose, SHAP, LIME, Explainable AI (XAI)
 
-#### 🔹 [Swedish Bird Classifier](https://github.com/lukasble/Swedish-Bird-Classifier)
+#### 🔹 [Swedish Bird Classifier (AI)](https://github.com/lukasble/Swedish-Bird-Classifier)
 - Machine learning pipeline that transforms raw audio recordings into spectrograms to classify bird species using deep learning.
 - **Tech Stack:** Python, HTML, Deep Learning / AI, Audio Processing, Kaggle Notebook
 
