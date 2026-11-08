@@ -32,7 +32,7 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
   
 #### 🔹 [Genome Analysis Pipeline](https://github.com/lukasble/Genome_Analysis)
 - Bioinformatics and comparative genomics analysis workflows and pipelines.
-- **Tech Stack:** Shell/Bash, Bioinformatics Tools, HPC
+- **Tech Stack:** Shell/Bash (SLURM/UPPMAX), Bioinformatics Tools, HPC
 
 
 ### Organization & Group Contributions
