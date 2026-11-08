@@ -46,7 +46,7 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 - Bioinformatics exploratory pipeline evaluating aging across Dog10K whole-genome sequencing datasets in relation to body weight.
 - **Tech Stack:** Python, R, Shell/Bash (SLURM/UPPMAX), BCFtools, SnpEff, Bioinformatics Pipelines, HPC
 
-#### 🔹 [Genome Analysis Pipeline](https://github.com/lukasble/Genome_Analysis)
+#### 🔹 [Genome Analysis Pipeline](https://github.com/lukasble/Genome_Analysis) *(Work in Progress)*
 - Bioinformatics and comparative genomics analysis workflows and pipelines.
 - **Tech Stack:** Shell/Bash (SLURM/UPPMAX), Bioinformatics Tools, HPC
 
