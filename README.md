@@ -23,8 +23,8 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 - **Tech Stack:** Python, R, PyTorch, Docker / Docker Compose, SHAP, LIME, Explainable AI (XAI)
 
 #### 🔹 [Omics Explainability: XGBoost vs. Rules](https://github.com/lukasble)
-- End-to-end bioinformatics pipeline integrating multi-block TCGA-BRCA multi-omics data (copy number variations, somatic mutations, RNA-Seq, and proteomics) with quantile discretization and R.ROSETTA rough set rule extraction to uncover predictive molecular associations for breast cancer classification.
-- **Tech Stack:** R (`R.ROSETTA`, `VisuNet`), Python, Pandas, Multi-Omics, Bioinformatics, Kaggle
+- End-to-end machine learning pipeline integrating high-dimensional multi-block TCGA-BRCA data (CNVs, somatic mutations, RNA-Seq, and proteomics) with custom quantile discretization and rough set theory algorithms to extract interpretable classification rules and feature interactions.
+- **Tech Stack:** R (`R.ROSETTA`, `VisuNet`), Python, Pandas, Rule-Based Machine Learning, Feature Engineering, Kaggle
 
 #### 🔹 [Mitochondrial DNA Miss Match](https://github.com/lukasble/Mito_Miss_Match)
 - Bioinformatics exploratory bioinformatics pipeline evaluating aging across Dog10K whole-genome sequencing datasets in relation to body weight.
