@@ -14,9 +14,9 @@ M.Sc. graduate in **Molecular Biotechnology & Bioinformatics** from Uppsala Univ
 - Machine learning pipeline that transforms raw audio recordings into spectrograms to classify bird species using deep learning.
 - **Tech Stack:** Python, HTML, Deep Learning / AI, Audio Processing, Kaggle Notebook
 
-#### 🔹 [Omics Explainability: XGBoost vs. Rules](https://www.kaggle.com/code/henriklukas/omics-explainability-xgboost-vs-rules) (*Work in Progress*)
+#### 🔹 [Omics Explainability: XGBoost vs. Rules](https://www.kaggle.com/code/henriklukas/omics-explainability-xgboost-vs-rules)
 - End-to-end machine learning pipeline integrating high-dimensional multi-block TCGA-BRCA data (CNVs, somatic mutations, RNA-Seq, and proteomics) with custom quantile discretization and rough set theory algorithms to extract interpretable classification rules and feature interactions.
-- **Tech Stack:** R (`R.ROSETTA`, `VisuNet`), Python, Pandas, Rule-Based Machine Learning, Feature Engineering, Kaggle
+- **Tech Stack:** R (`R.ROSETTA`, `Cytoscape`), Python, Pandas, Rule-Based Machine Learning, Feature Engineering, Kaggle
 
 ---
 
